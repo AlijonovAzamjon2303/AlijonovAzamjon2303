@@ -9,3 +9,11 @@
 
 ### Leetcode status
 ![LeetCode Stats](https://leetcode.card.workers.dev/AzamjonAlijonov?theme=dark&font=baloo&extension=null)
+
+### Github Status
+
+<h3 align="left"></h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alijonovazamjon2303&show_icons=true&locale=en" alt="alijonovazamjon2303" /></p>
